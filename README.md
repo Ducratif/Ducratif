@@ -6,15 +6,17 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey C'est Ducratif, Fondateur de 
-                <b><a target="_blank" href="https://ducragen">DucraGen</a></b>
+        <samp>&gt; Hey C'est Ducratif,Fondateur de 
+                <br><b><a target="_blank" href="https://github.com/Ducratif/ducragen">DucraGen</a></b>
+          <br><b><a target="_blank" href="https://discord.gg/BBcaqTcQuH">GuerreRP</a></b>
+          <br><b><a target="_blank" href="https://discord.gg/kpD8pQBBWm">DucraShop</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=ducragen">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=ducratif">「 Google Me 」</a>
     <br>
     「 Full Développeur C#/NodeJS/WEB</b> 」
     <br>
