@@ -19,7 +19,7 @@
   <samp>
     <a href="https://www.google.com/search?q=ducratif">「 Google Me 」</a>
     <br>
-    「 Full Développeur C#/NodeJS/WEB</b> 」
+    「 Full Développeur C#/NodeJS/WEB/LUA (FiveM)</b> 」
     <br>
     <br>
   </samp>
