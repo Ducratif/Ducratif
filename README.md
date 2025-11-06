@@ -11,6 +11,7 @@
           <br><b><a target="_blank" href="https://discord.gg/BBcaqTcQuH">GuerreRP</a></b>
           <br><b><a target="_blank" href="https://discord.gg/kpD8pQBBWm">DucraShop</a></b>
           <br><b><a target="_blank" href="https://guerrerp.ovh">GuerreRP (FiveM)</a></b>
+          <br><b><a target="_blank" href="https://github.com/Ducratif/guerrerp_base">Base OPEN SOURCE GuerreRP (FiveM)</a></b>
         </samp>
 </h3>
 
