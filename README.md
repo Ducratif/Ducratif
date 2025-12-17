@@ -7,6 +7,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey C'est Ducratif,Fondateur de 
+          <br><b><a target="_blank" href="https://ducratif.com">Mon Portfolio</a></b>
                 <br><b><a target="_blank" href="https://github.com/Ducratif/ducragen">DucraGen</a></b>
           <br><b><a target="_blank" href="https://discord.gg/BBcaqTcQuH">GuerreRP</a></b>
           <br><b><a target="_blank" href="https://discord.gg/kpD8pQBBWm">DucraShop</a></b>
