@@ -1,104 +1,132 @@
-
-
 <a href="https://komarev.com/ghpvc/?username=ducratif">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ducratif&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=ducratif&label=Visitors&color=0e75b6&style=flat" alt="Profile visitors" />
 </a>
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey C'est Ducratif,Fondateur de 
-          <br><b><a target="_blank" href="https://ducratif.com">Mon Portfolio</a></b>
-                <br><b><a target="_blank" href="https://github.com/Ducratif/ducragen">DucraGen</a></b>
-          <br><b><a target="_blank" href="https://discord.gg/BBcaqTcQuH">GuerreRP</a></b>
-          <br><b><a target="_blank" href="https://discord.gg/kpD8pQBBWm">DucraShop</a></b>
-          <br><b><a target="_blank" href="https://guerrerp.ovh">GuerreRP (FiveM)</a></b>
-          <br><b><a target="_blank" href="https://github.com/Ducratif/guerrerp_base">Base OPEN SOURCE GuerreRP (FiveM)</a></b>
-        </samp>
-</h3>
+<div align="center">
 
-
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=ducratif">「 Google Me 」</a>
-    <br>
-    「 Full Développeur C#/NodeJS/WEB/LUA (FiveM)</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
- <a href="https://ducratif.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ducratif" />
- </a>
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
-  
- ✌️ &emsp; Profiter des Open Source <br/><br/>
- ❤️ &emsp; Une passion pour la programmation<br/><br/>
- 📧 &emsp; Hésiter pas a me contacter pour toute aide
-</p>
-
-<br/>
-<br/>
-<br/>
-
-## Use To Code
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&center=true&vCenter=true&width=760&lines=Ducratif+%E2%80%A2+Full-Stack+Developer;Discord+Bots+%E2%80%A2+FiveM+(ESX)+%E2%80%A2+Web+Apps+%E2%80%A2+C%23+Tools;Building+clean+systems%2C+reliable+automation%2C+and+polished+UX" alt="Typing SVG" />
 
 <br/>
 
-
-<p align="left">
-  <a href="https://github.com/ducratif?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Ducratif">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ducratif&theme=radical&border=7F3FBF&background=0D1117" alt="ducratif GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ducratif">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ducratif&theme=radical" alt="ducratif GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/ducratif"><img alt="Ducratif Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ducratif&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ducratif"><img alt="Ducratif Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ducratif&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+<a href="https://ducratif.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://dlguerrerp.ducratif.com" target="_blank">
+  <img src="https://img.shields.io/badge/Base GuerreRP (FiveM)-0D1117?style=for-the-badge&logo=rockstar-games&logoColor=white" />
+</a>
+<br>
+<a href="https://discord.gg/kpD8pQBBWm" target="_blank">
+  <img src="https://img.shields.io/badge/Discord%20DucraShop-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<br>
+<a href="https://www.google.com/search?q=ducratif" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Me-0D1117?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 
+</div>
 
-![Ducratif Graph](https://github-readme-activity-graph.vercel.app/graph?username=ducratif&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+---
+
+## ⚡ À propos
+
+Je construis des systèmes **robustes**, **scalables** et **propres** :  
+- 🤖 **Bots Discord** (tickets, suggestions, modération, shop, logs, automations)  
+- 🎮 **FiveM (ESX Legacy)** (ox_lib, oxmysql, UI NUI modernes, systèmes de gameplay)  
+- 🌐 **Web Apps** (dashboards admin, OAuth Discord, APIs, temps réel AJAX/WebSocket)  
+- 🧩 **C#** (outils desktop, launchers, utilitaires, intégrations)
+
+**Objectif :** du code maintenable, des performances stables, et une expérience utilisateur premium.
+
+---
+
+## 🧠 Ce que je livre
+
+- **Architecture propre** : modules, services, séparation client/serveur, config claire  
+- **Fiabilité** : anti-crash, logs, erreurs gérées, fallback & sécurité  
+- **DX & DevOps** : Docker/Pterodactyl-ready, variables d’environnement, scripts d’install  
+- **UX** : interfaces modernes, animations, feedback utilisateur (toasts, modals, loaders)
+
+---
+
+## 🚀 Projets mis en avant
+
+> Tout les autre travaux sont sur mon repo ou bien Discord.
+
+- **GuerreRP (FiveM)** — Serveur RP + écosystème de scripts & systèmes gameplay  
+  → https://guerrerp.ovh  
+- **Base Open Source GuerreRP (FiveM)** — Base ESX Legacy & ressources publiques  
+  → https://github.com/Ducratif/guerrerp_base  
+- **DucraShop** — Boutique & outils autour de scripts / services (Discord + web)  
+  → https://discord.gg/kpD8pQBBWm  
+- **DucraGen** — Générateur / tooling (repo)  
+  → https://github.com/Ducratif/ducragen  
+
+---
+
+## 🧰 Tech Stack
+
+### Langages
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Lua](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=2C2D72)
+![C%23](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+
+### Web
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+### Data / Ops
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+---
+
+## 🧭 En ce moment
+
+- 🔧 Développement & amélioration continue de l’écosystème **GuerreRP**
+- 🛒 Outils et automatisations autour de **DucraShop**
+- 🧪 UI modernes + systèmes temps réel (websocket / ajax)
+- 🛡️ Stabilisation : performances, erreurs, anti-abus, logs & observabilité
+- 🖥️ Infrastructure & serveurs (VPS) : Debian/Ubuntu, Pterodactyl, Docker, Nginx, sécurité, monitoring & déploiements automatisés
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <a href="https://github.com/ducratif">
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ducratif&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=21600" />
+  </a>
+  <a href="https://github.com/ducratif">
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ducratif&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10&amp;cache_seconds=21600" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ducratif">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ducratif&theme=tokyonight" />
+  </a>
+</div>
+
+![Ducratif Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ducratif&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true&custom_title=Ducratif%20%E2%80%A2%20Activity%20Graph)
+
+---
+
+## 🤝 Contact
+
+- 🌐 Portfolio : https://ducratif.com  
+- 🎮 GuerreRP : https://guerrerp.ovh  
+- 🛒 Discord DucraShop : https://discord.gg/kpD8pQBBWm  
+
+---
+
+## 🧾 Notes
+
+- Contributions / PR bienvenues sur les repos open-source.
+- Si tu utilises mes ressources, pense à laisser un ⭐ sur le repo : ça aide énormément 🙌
