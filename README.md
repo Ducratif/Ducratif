@@ -52,8 +52,8 @@ Je construis des systèmes **robustes**, **scalables** et **propres** :
 
 > Tout les autre travaux sont sur mon repo ou bien Discord.
 
-- **GuerreRP (FiveM)** — Serveur RP + écosystème de scripts & systèmes gameplay  
-  → https://guerrerp.ovh  
+- **GuerreRP Documentation** — Base FiveM Open Source
+  → https://guerrerp.ducratif.com 
 - **Base Open Source GuerreRP (FiveM)** — Base ESX Legacy & ressources publiques  
   → https://github.com/Ducratif/guerrerp_base  
 - **DucraShop** — Boutique & outils autour de scripts / services (Discord + web)  
